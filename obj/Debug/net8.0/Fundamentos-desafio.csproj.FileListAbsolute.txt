@@ -1,0 +1,14 @@
+D:\Cursos\DIO\Bootcamp .NET\Fundamentos-desafio\bin\Debug\net8.0\Fundamentos-desafio.exe
+D:\Cursos\DIO\Bootcamp .NET\Fundamentos-desafio\bin\Debug\net8.0\Fundamentos-desafio.deps.json
+D:\Cursos\DIO\Bootcamp .NET\Fundamentos-desafio\bin\Debug\net8.0\Fundamentos-desafio.runtimeconfig.json
+D:\Cursos\DIO\Bootcamp .NET\Fundamentos-desafio\bin\Debug\net8.0\Fundamentos-desafio.dll
+D:\Cursos\DIO\Bootcamp .NET\Fundamentos-desafio\bin\Debug\net8.0\Fundamentos-desafio.pdb
+D:\Cursos\DIO\Bootcamp .NET\Fundamentos-desafio\obj\Debug\net8.0\Fundamentos-desafio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\DIO\Bootcamp .NET\Fundamentos-desafio\obj\Debug\net8.0\Fundamentos-desafio.AssemblyInfoInputs.cache
+D:\Cursos\DIO\Bootcamp .NET\Fundamentos-desafio\obj\Debug\net8.0\Fundamentos-desafio.AssemblyInfo.cs
+D:\Cursos\DIO\Bootcamp .NET\Fundamentos-desafio\obj\Debug\net8.0\Fundamentos-desafio.csproj.CoreCompileInputs.cache
+D:\Cursos\DIO\Bootcamp .NET\Fundamentos-desafio\obj\Debug\net8.0\Fundamentos-desafio.dll
+D:\Cursos\DIO\Bootcamp .NET\Fundamentos-desafio\obj\Debug\net8.0\refint\Fundamentos-desafio.dll
+D:\Cursos\DIO\Bootcamp .NET\Fundamentos-desafio\obj\Debug\net8.0\Fundamentos-desafio.pdb
+D:\Cursos\DIO\Bootcamp .NET\Fundamentos-desafio\obj\Debug\net8.0\Fundamentos-desafio.genruntimeconfig.cache
+D:\Cursos\DIO\Bootcamp .NET\Fundamentos-desafio\obj\Debug\net8.0\ref\Fundamentos-desafio.dll
